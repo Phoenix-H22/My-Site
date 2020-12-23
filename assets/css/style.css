@@ -760,6 +760,7 @@ hr{
   background: #fff;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 10px;
 }
 
 .contact .info i {
@@ -829,6 +830,7 @@ hr{
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 10px;
 }
 
 .contact .php-email-form .form-group {
