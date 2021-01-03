@@ -668,6 +668,7 @@ hr{
   width: 90px;
   border-radius: 50%;
   margin: 0 auto;
+  border: #149ddd solid;
 }
 
 .testimonials .testimonial-item h3 {
