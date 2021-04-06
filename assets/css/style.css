@@ -1376,3 +1376,25 @@ preloader
 .my-float{
 	margin-top:10px;
 }
+.float2{
+	position:fixed;
+	width:50px;
+	height:50px;
+	bottom:150px;
+	right: 10px;
+	background-color:#1686E9;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.float2:hover{
+  background-color: #272829;
+}
+
+.my-float2{
+	margin-top:10px;
+}
